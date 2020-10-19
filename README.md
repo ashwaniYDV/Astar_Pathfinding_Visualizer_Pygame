@@ -1,4 +1,4 @@
-# A* Pathfinding Visulaizer using Pygame
+# A* Pathfinding Visualizer using Pygame
 
 ## Usage
 
