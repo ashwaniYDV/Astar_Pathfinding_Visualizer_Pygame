@@ -1,1 +1,1 @@
-# A-_Pathfinding_Visulaizer_Pygame
+# A* Pathfinding Visulaizer using Pygame
